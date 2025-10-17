@@ -1,0 +1,44 @@
+{
+    "Buildings": {
+        "Biomass Generator": 0,
+        "Dyson Swarm": 0,
+        "Factory Complex": 0,
+        "Forestry Station": 1,
+        "Fuel Synthesizer": 1,
+        "Fusion Reactor": 0,
+        "Habitat Dome": 6,
+        "Hydroponics Farm": 1,
+        "Interstellar Gateway": 0,
+        "Mine": 3,
+        "Orbital Habitat Ring": 0,
+        "Orbital Shipyard": 0,
+        "Quantum Lab": 0,
+        "Refinery": 2,
+        "Research Lab": 1,
+        "Silicon Factory": 0,
+        "Solar Panel": 1,
+        "Stellar Forge": 0
+    },
+    "Empire": {
+        "CurrentStage": 2,
+        "Population": 0
+    },
+    "Resources": {
+        "Alloy": 46.0,
+        "Antimatter": 10.0,
+        "Biomass": 0.0,
+        "Credits": 66.0,
+        "Data": 89.0,
+        "Energy": 164.0,
+        "Food": 151.0,
+        "Fuel": 17.0,
+        "Helium-3": 5.0,
+        "Influence": 0.0,
+        "Iron": 215.0,
+        "Knowledge": 0.0,
+        "NanoCompounds": 25.0,
+        "Silicon": 0.0,
+        "Stone": 248.0,
+        "Wood": 29.0
+    }
+}
